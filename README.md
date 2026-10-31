@@ -28,7 +28,7 @@ chmod +x assignment3.sh
 
 **Terminal Output:**
 ![successfully creating all four environments](https://github.com/Walcott-iam/Azure-Deployment-Script/blob/main/succesful%20creation%20of%20resource%20group.png)
-)
+
 
 **Azure Portal Verification:**
 *(Shows the newly created Resource Groups inside my Azure account)*
@@ -52,6 +52,7 @@ chmod +x deploy.sh
 
 **Terminal Output:**
 ![script executing the Azure commands and printing success messages](https://github.com/Walcott-iam/Azure-Deployment-Script/blob/main/successful%20creation%20of%20RSVnet%20in%20terminal.png)
+
 **Azure Portal Verification:**
 ![Shows the Resource Group containing the Storage Account and Virtual Network](https://github.com/Walcott-iam/Azure-Deployment-Script/blob/main/successful%20running%20in%20azure.png)
 
